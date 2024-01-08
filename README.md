@@ -1,4 +1,4 @@
-Convolutional Neuronal Netowork
+Convolutional Neuronal Network
 --------------------------------------------------
 
 Description:
