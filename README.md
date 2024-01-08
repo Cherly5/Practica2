@@ -7,7 +7,7 @@ We have built a neuronal network that recognizes images and classifies them as f
 Dataset Used:
 The dataset we used in our neuronal network consists of 3 different types of gemstones, and each one whether they are real or fake. The following link goes directly to the dataset 
 page on Kaggle: 
-kaggle.com/datasets/muhammadmuzamil5500/gemstones
+[kaggle.com/datasets/muhammadmuzamil5500/gemstones]()
 
 Training Phase:
 The network works really nicely, achieving more than 90% of accuracy and less than 0.4 loss.
