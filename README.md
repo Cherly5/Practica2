@@ -13,4 +13,4 @@ During the validation phase, the network achieves more than 0.8 accuracy and les
 Test Phase:
 However during the test phase we've been having complications due to the database and more specifically the class 'turquoise', which happens to be the first option of the network
 when it comes to predicting the class of an unkown image.
-We have achieved 59% accuracy.
+We have achieved 93.8% accuracy.
